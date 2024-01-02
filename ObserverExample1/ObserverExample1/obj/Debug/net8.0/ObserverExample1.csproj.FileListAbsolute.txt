@@ -1,0 +1,14 @@
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\bin\Debug\net8.0\ObserverExample1.exe
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\bin\Debug\net8.0\ObserverExample1.deps.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\bin\Debug\net8.0\ObserverExample1.runtimeconfig.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\bin\Debug\net8.0\ObserverExample1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\bin\Debug\net8.0\ObserverExample1.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\obj\Debug\net8.0\ObserverExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\obj\Debug\net8.0\ObserverExample1.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\obj\Debug\net8.0\ObserverExample1.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\obj\Debug\net8.0\ObserverExample1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\obj\Debug\net8.0\ObserverExample1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\obj\Debug\net8.0\refint\ObserverExample1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\obj\Debug\net8.0\ObserverExample1.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\obj\Debug\net8.0\ObserverExample1.genruntimeconfig.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Observer\ObserverExample1\ObserverExample1\obj\Debug\net8.0\ref\ObserverExample1.dll
